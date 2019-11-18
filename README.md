@@ -11,6 +11,10 @@ When complete, you'll be able to grab random quotes from the command line, like 
 > **$** python get-quote.py
 > 
 > Speak like a human
+>
+> **$** python get-quote.py
+>
+> Practicality beats purity
 
 ## Start the Tutorial
 
